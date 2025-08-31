@@ -37,7 +37,7 @@ Here is the flow of the system we propose. We get data from the national Electro
 
 By integrating regional diabetes distribution datasets like those provided by Te Whatu Ora, we can focus our efforts and resources on the areas where we can prevent the most complications and generate the greatest return on our healthcare investments.
 
-Areas such as Manukau make up one sixth of the total number of diabetes cases on the register. If our system prevents a complication for just a tiny fraction of these regions, the potential savings are in the tens of millions of dollars, Annually, In just one district.
+Areas such as Manukau make up one sixth of the total number of diabetes cases on the register. If our system prevents a complication for just a tiny fraction of these regions, the potential savings are in the tens of millions of dollars annually in just one district.
 
 ## Digital Health Record
 
