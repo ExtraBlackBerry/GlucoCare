@@ -33,4 +33,4 @@ Areas such as Manukau make up one sixth of the total number of diabetes cases on
 * Insulin: Doses, Units (milliliters)
 * Appointments: Location, Date / Time, Details
 ## GlucoCare Data Flow Diagram
-![](path/to/EntityRelationShipDiagram.jpg)
+![](entity_relationship_diagram.png)
