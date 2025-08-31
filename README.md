@@ -54,3 +54,9 @@ Areas such as Manukau make up one sixth of the total number of diabetes cases on
 ## GlucoCare Data Flow Diagram
 
 ![](entity_relationship_diagram.png)
+
+# Team Members
+* [John Yoo](https://github.com/ExtraBlackBerry)
+* [Chelsea Ferguson](https://github.com/devchelseaa)
+* [Foster Rae](https://github.com/FosterSenpai)
+* [Demarjio Brady](https://github.com/0xdembyte)
