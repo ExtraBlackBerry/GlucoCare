@@ -1,7 +1,8 @@
 # GlucoCare
 
 Diabetes Management Application
-##Demo
+
+##Prototype
 [Prototype](https://www.figma.com/proto/fp31nzVarWBfVf5cnIFnJ9/Wireframing?node-id=92-141&p=f&t=8BFNQAdpuVPZSi9U-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=92%3A141)
 
 ## Vision, Problem statement, and Solution
