@@ -7,7 +7,7 @@ Type 2 diabetes is a growing challenge in New Zealand, costing $2.1 billion per 
 * Patient empowerment through data-driven tools
 ### Benefits of the app
 #### For patients
-* Personalized
+* Personalised user-interface.
 * Easier self-management of diabetes, leading to fewer complications
 * Improved quality of life and reduced stress through clear, visual, and easily accessible health data
 #### For healthcare providers
